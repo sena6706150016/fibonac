@@ -27,6 +27,6 @@ public class JavaApplication1 {
         hasil=t+p;
         }
     }
-
+//ini udah dirubah menjadi deret sesuai jumlah yang kita inginkan kaka :)
 }
     
